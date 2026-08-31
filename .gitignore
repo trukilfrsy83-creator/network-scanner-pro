@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+results/*.json
+results/*.csv
+results/*.pcap
+results/*.pcapng
+.env
+*.swp
+*.swo
+*.backup.*
+results/
